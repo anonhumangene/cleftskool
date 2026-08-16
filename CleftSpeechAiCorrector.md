@@ -5,3 +5,5 @@ Can be language specific
 
 
 Cleft Person -->Cleft Speech -->Our System-->Correct speech --> Audience or listener
+
+Training can be done in specific language with sentences containing uniqque sounds
